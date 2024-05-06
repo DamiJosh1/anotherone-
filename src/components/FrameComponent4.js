@@ -5,10 +5,10 @@ const FrameComponent4 = () => {
         Frequently Asked Questions
       </div>
       <div className="flex-1 flex flex-col items-start justify-start py-0 px-large gap-[32px] text-center text-5xl font-text-heading-h6 sm:text-[12px] sm:gap-[2px] sm:bottom-[10px] sm:right-[55px] sm:relative md:text-[16px] md:gap-[2px] md:bottom-[10px] md:right-[35px] md:relative">
-        <div className="self-stretch flex flex-col items-start justify-center pt-4 px-4 pb-8 gap-[16px] border-b-[1px] border-solid border-color-grey-grey-200 md:w-[700px]">
+        <div className="self-stretch flex flex-col items-start justify-center pt-4 px-4 pb-8 gap-[16px] border-b-[1px] border-solid border-color-grey-grey-200 sm:w-[400px] md:w-[700px]">
           <div className="self-stretch flex flex-row items-center justify-between ">
             <div className="relative leading-[120%]">What is Shoppr?</div>
-            <img className="w-8 relative h-8 sm:right-[270px] md:right-[290px]" alt="" src="/iconminus.svg" />
+            <img className="w-8 relative h-8 sm:right-[64px] md:right-[290px]" alt="" src="/iconminus.svg" />
           </div>
           <img
             className="w-[684px] relative max-w-full overflow-hidden h-0 shrink-0 hidden"
